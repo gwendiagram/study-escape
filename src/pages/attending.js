@@ -15,6 +15,16 @@ const Attending = () => (
 
 <p>There will also be structured times where people can experiment with workshops that they have been working on to gain feedback from others.  We would like this to be a safe place where people can receive feedback for their work that they would like to submit to conferences etc.</p>
 
+
+COSSSSSSSSST
+
+HOW TO SIGN UP
+
+REGISTER YOUR INTEREST
+
+
+
+
 <h2>Topics</h2>
 <p>Ministry of Testing propose a list of topics to get people’s ideas flowing.</p>
 

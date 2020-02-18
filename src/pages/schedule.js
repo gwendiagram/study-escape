@@ -25,6 +25,7 @@ const Schedule = () => (
 <p>After dinner activity: ?</p>
 
 <h3>Wednesday</h3>
+<p>Workshop run by attendee</p>
 <p>After dinner activity: ?</p>
 
 <h3>Thursday</h3>

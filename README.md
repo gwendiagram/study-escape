@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 7e33a781fea7347725ba7a20d34d0c4b04d1cb49
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -98,11 +94,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
-<!-- AUTO-GENERATED-CONTENT:END -->
-<<<<<<< HEAD
-=======
-# study-trip
-Testing Study Escape
->>>>>>> 4f117f27b13094f5cb8d8f5ad5001db32ca8c48d
-=======
->>>>>>> 7e33a781fea7347725ba7a20d34d0c4b04d1cb49
