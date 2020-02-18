@@ -5,7 +5,11 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
+<<<<<<< HEAD
       background: `#0065BF`,
+=======
+      background: `rebeccapurple`,
+>>>>>>> 7e33a781fea7347725ba7a20d34d0c4b04d1cb49
       marginBottom: `1.45rem`,
     }}
   >
@@ -36,7 +40,11 @@ Header.propTypes = {
 }
 
 Header.defaultProps = {
+<<<<<<< HEAD
   siteTitle: `Scotland Study Trip`,
+=======
+  siteTitle: ``,
+>>>>>>> 7e33a781fea7347725ba7a20d34d0c4b04d1cb49
 }
 
 export default Header
