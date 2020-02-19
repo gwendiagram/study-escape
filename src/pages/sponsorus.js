@@ -9,7 +9,7 @@ const SponsorUs = () => (
     <SEO title="Sponsor Us" />
 
 <h1>What am I getting myself into as a sponsor?</h1>
-<p>The Scotland Study trip is a week long trip away for testers to deep dive into testing topics that will benefit the community.  Some of the outputs that we are looking to create are:</p>
+<p>The Testing Study Escape is a week long trip away for testers to deep dive into testing topics that will benefit the community.  Some of the outputs that we are looking to create are:</p>
 <ul>
 <li>Blog post</li>
 <li>Video</li>
@@ -69,6 +69,9 @@ const SponsorUs = () => (
 <li>Offer the attendees swag from our sponsors such as stickers, USB drives or any other merchandise that you think is suitable.</li>
 <li>A blog post from the organisers for your website to say how your company has helped the testing community</li>
 </ul>
+
+<h2>I'm in, how do I sponsor?</h2>
+<p>To sponsor, please contact <a href="mailto:gwen@diagramindustries.com?Subject=Testing%20Study%20Escape%20Sponsorship" target="_top">gwen@diagramindustries.com</a> and we can talk about how we can make sponsorship work for you.  Thank you for your interest, together, we can push the Testing industry forward into areas it's never ventured before!</p>
 <Link to="/">Go back to the homepage</Link>
   </Layout>
 )

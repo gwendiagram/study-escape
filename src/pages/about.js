@@ -14,7 +14,7 @@ const About = () => (
 <h2>What?</h2>
 <p>A study trip to Scotland for people interested in testing to deep dive into a specific topic.</p>
 <h2> When? </h2>
-<p>July 2020 for a week. Arrive on Sunday, leave on Sunday. Study the topic from Monday - Thursday and present findings Friday and Saturday.</p>
+<p>July or August 2020 for a week. Arrive on Sunday, leave on Sunday. Study the topic from Monday - Thursday and present findings Friday and Saturday.</p>
 <h2> Who? </h2>
 <p>Up to 15 people</p>
 <h2> How? </h2>
