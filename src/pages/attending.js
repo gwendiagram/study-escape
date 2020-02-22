@@ -17,17 +17,13 @@ const Attending = () => (
 
 <h2>Cost</h2>
 <p>As attendees will be giving a week of their life to further the testing community, we will endevour to keep the trip as cheap as possible.  We are aiming for the week to be under £800 per person, however, we will need sponsors to make this happen.  If you know a company that would be interested in sponsoring, please direct them to the <Link to="/sponsorus">Sponsor Us</Link> page and can you always speak to <Link to="https://twitter.com/ezagroba">Elizabeth Zagroba</Link> or <Link to="https://twitter.com/gwendiagram">Gwen Diagram</Link> if you have more questions.</p>
-COSSSSSSSSST
-
-HOW TO SIGN UP
-
-REGISTER YOUR INTEREST
 
 
+<p> Cost will depend on our sponsors, but we're aiming to keep it under £800 for the week for food and a place to sleep. See <Link to="./sponsorus">Sponsor Us</Link> for more about how we're calculating costs.</p>
 
 
 <h2>Topics</h2>
-<p>Ministry of Testing propose a list of topics to get people’s ideas flowing.</p>
+<p>Ministry of Testing will propose a list of topics to get people’s ideas flowing.</p>
 
 <h3>Example of topics</h3>
 <p>Observability of asynchronous systems</p>
@@ -65,6 +61,12 @@ REGISTER YOUR INTEREST
     <li>Any concerns </li>
     <li>Share the study week with your friends ahead of time</li>
 </ul>
+
+<h2>I want to come!</h2>
+
+<p>Registration isn't open yet, but <a href="https://me843905.typeform.com/to/LvzU5H">give us your name and your email here</a> and we'll let you know when it is.</p>
+
+
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
