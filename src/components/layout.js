@@ -29,7 +29,7 @@ const Layout = ({ children, pageInfo }) => (
         <Container fluid className="px-0 main">
           <Row noGutters className="justify-content-center">
           </Row>
-          <Navbar pageInfo={pageInfo} class="#site-navbar"/>
+          <Navbar pageInfo={pageInfo} />
           <Row noGutters>
             <Col>
               <Container className="mt-5">

@@ -1,11 +1,10 @@
 import React from "react"
 
-import { Navbar, Nav, Container } from "react-bootstrap"
+import { Navbar, Nav } from "react-bootstrap"
 
 const CustomNavbar = ({ pageInfo }) => {
   console.log(pageInfo)
   return (
-    //<Container>
     <Navbar bg="primary" expand="lg" variant="dark">
   <Navbar.Brand href="/">Testing Study Escape</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -18,7 +17,6 @@ const CustomNavbar = ({ pageInfo }) => {
     </Nav>
   </Navbar.Collapse>
 </Navbar>
-//</Container>
   )
 }
 

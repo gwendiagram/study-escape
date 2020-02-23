@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -8,7 +7,7 @@ const Schedule = () => (
   <Layout>
     <SEO title="Schedule" />
 
-<p>Each day will involve a walk around the grounds, food and an after dinner activity.</p>
+<p>Each day will involve a morning standup, a lunch walk around the grounds, food (breakfast, lunch and tea) and an after dinner activity.  We will ensure there is an abundance of custard.</p>
     
 <h3>Sunday</h3>
 <p>15:00 - People arrive</p>
@@ -22,7 +21,7 @@ const Schedule = () => (
 
 
 <h3>Tuesday</h3>
-<p>After dinner activity: ?</p>
+<p>After dinner activity: Powerpoint Karoke</p>
 
 <h3>Wednesday</h3>
 <p>Workshop run by attendee</p>

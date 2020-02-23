@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -8,6 +7,7 @@ const CodeOfConduct = () => (
   <Layout>
     <SEO title="Code of Conduct" />
     <h1>Code of Conduct</h1>
+    <p></p>
     <h2>Short version</h2>
 <p>Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop.</p>
 
