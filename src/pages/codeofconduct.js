@@ -28,7 +28,7 @@ const CodeOfConduct = () => (
 </ul>
 
 <p>We want to allow people to connect in a space free from harassment, discrimination, intimidation, or unwelcome attention of any sort. We will do our best to create this environment. Please come forward if you need our support in maintaining this vision.</p>
-    <Link to="/">Go back to the homepage</Link>
+
   </Layout>
 )
 

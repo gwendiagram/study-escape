@@ -43,8 +43,6 @@ const Schedule = () => (
 <p>Retrospective</p>
 <p>Conference close</p>
 
-
-<Link to="/">Go back to the homepage</Link>
   </Layout>
 )
 

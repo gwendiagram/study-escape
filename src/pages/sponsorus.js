@@ -72,7 +72,7 @@ const SponsorUs = () => (
 
 <h2>I'm in, how do I sponsor?</h2>
 <p>To sponsor, please contact <a href="mailto:gwen@diagramindustries.com?Subject=Testing%20Study%20Escape%20Sponsorship" target="_top">gwen@diagramindustries.com</a> and we can talk about how we can make sponsorship work for you.  Thank you for your interest, together, we can push the Testing industry forward into areas it's never ventured before!</p>
-<Link to="/">Go back to the homepage</Link>
+
   </Layout>
 )
 

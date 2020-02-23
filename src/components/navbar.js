@@ -6,7 +6,7 @@ const CustomNavbar = ({ pageInfo }) => {
   console.log(pageInfo)
   return (
     //<Container>
-    <Navbar bg="primary" variant="dark">
+    <Navbar bg="primary" expand="lg" variant="dark">
   <Navbar.Brand href="/">Testing Study Escape</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">

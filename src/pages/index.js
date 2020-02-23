@@ -14,6 +14,7 @@ const IndexPage = () => (
     </div>
 
     <h1>About the trip</h1>
+    <p></p>
     <h2>The organisers</h2>
     <p><a href="https://twitter.com/ezagroba">Elizabeth Zagroba</a> and <a href="https://twitter.com/gwendiagram">Gwen Diagram</a></p>
 
@@ -30,10 +31,6 @@ const IndexPage = () => (
 <h2>Why?</h2>
 <p>Last year, Gwen went to Krakow and studied philosophy for three days, ate noodles and had a brilliant time. She would like to extend the learning opportunity to other testers in a serene setting with a discussion at the end.</p>
 
-    <p><Link to="/attending">Attending</Link></p>
-    <p><Link to="/codeofconduct/">Code of Conduct</Link></p>
-    <p><Link to="/schedule/">Rough Schedule</Link></p>
-    <p><Link to="/sponsorus">Sponsor Us</Link></p>
   </Layout>
 )
 

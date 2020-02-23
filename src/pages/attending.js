@@ -65,9 +65,7 @@ const Attending = () => (
 <h2>I want to come!</h2>
 
 <p>Registration isn't open yet, but <a href="https://me843905.typeform.com/to/LvzU5H">give us your name and your email here</a> and we'll let you know when it is.</p>
-
-
-    <Link to="/">Go back to the homepage</Link>
+  
   </Layout>
 )
 
