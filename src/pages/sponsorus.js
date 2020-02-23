@@ -35,7 +35,7 @@ const SponsorUs = () => (
   <tbody>
   <tr>
     <td>Venue in the depths of Scotland</td>
-    <td>£6000</td>
+    <td>£4000</td>
   </tr>
   <tr>
     <td>Lovely Food</td>
@@ -55,7 +55,7 @@ const SponsorUs = () => (
   </tr>
   <tr>
     <td>Total</td>
-    <td>£8720</td>
+    <td>£6720</td>
   </tr>
 </tbody>
 </table>

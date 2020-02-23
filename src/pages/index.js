@@ -7,11 +7,10 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <p>Holy mackerel, it's the page for the Testing Study Escape!</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-
+    <h6>*Castle is an example and not the one we will be staying at!</h6>
     <h1>About the trip</h1>
     <p></p>
     <h2>The organisers</h2>

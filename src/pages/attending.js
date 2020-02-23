@@ -16,14 +16,10 @@ const Attending = () => (
 <p>There will also be structured times where people can experiment with workshops that they have been working on to gain feedback from others.  We would like this to be a safe place where people can receive feedback for their work that they would like to submit to conferences etc.</p>
 
 <h2>Cost</h2>
-<p>As attendees will be giving a week of their life to further the testing community, we will endevour to keep the trip as cheap as possible.  We are aiming for the week to be under £800 per person, however, we will need sponsors to make this happen.  If you know a company that would be interested in sponsoring, please direct them to the <Link to="/sponsorus">Sponsor Us</Link> page and can you always speak to <Link to="https://twitter.com/ezagroba">Elizabeth Zagroba</Link> or <Link to="https://twitter.com/gwendiagram">Gwen Diagram</Link> if you have more questions.</p>
-
-
-<p> Cost will depend on our sponsors, but we're aiming to keep it under £800 for the week for food and a place to sleep. See <Link to="./sponsorus">Sponsor Us</Link> for more about how we're calculating costs.</p>
-
+<p>As attendees will be giving a week of their life to further the testing community, we will endevour to keep the trip as cheap as possible.  We are aiming for the week to be under £800 per person, however, we will need sponsors to make this happen.  If you know a company that would be interested in sponsoring, please direct them to the <Link to="/sponsorus">Sponsor Us</Link> page and can you always speak to <Link to="https://twitter.com/ezagroba">Elizabeth Zagroba</Link> or <Link to="https://twitter.com/gwendiagram">Gwen Diagram</Link> if you have more questions.  If you would like to see how we are calculating costs, please have a look at <Link to="/sponsorus">Sponsor Us</Link> which has a breakdown.</p>
 
 <h2>Topics</h2>
-<p>Ministry of Testing will propose a list of topics to get people’s ideas flowing.</p>
+<p><a href="https://www.ministryoftesting.com/">Ministry of Testing</a> will propose a list of topics to get people’s ideas flowing.</p>
 
 <h3>Example of topics</h3>
 <p>Observability of asynchronous systems</p>

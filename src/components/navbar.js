@@ -14,6 +14,7 @@ const CustomNavbar = ({ pageInfo }) => {
       <Nav.Link href="/codeofconduct">Code of Conduct</Nav.Link>
       <Nav.Link href="/schedule">Rough Schedule</Nav.Link>
       <Nav.Link href="/sponsorus">Sponsor Us</Nav.Link>
+      <Nav.Link href="/venue">Venue</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
