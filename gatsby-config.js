@@ -1,16 +1,6 @@
 module.exports = {
   siteMetadata: {
     title: `Testing Study Escape`,
-      menuLinks:[
-        {
-          name:'home',
-          link:'/'
-         },
-        {
-            name:'schedule',
-            link:'/schedule'
-        }
-       ],
     description: `Information about the famous Testing Study Escape`,
     author: `@gwendiagram`,
   },
@@ -23,12 +13,8 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
+    `gatsby-plugin-sass`,
+    `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

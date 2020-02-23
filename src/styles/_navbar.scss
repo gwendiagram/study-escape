@@ -1,0 +1,8 @@
+.site-navbar {
+  background-color: $color-primary;
+  position: -webkit-sticky;
+  position: sticky;
+  text-shadow: $close-text-shadow;
+  top: 0;
+  z-index: 100;
+}
