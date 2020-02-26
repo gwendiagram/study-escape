@@ -63,10 +63,11 @@ const SponsorUs = () => (
 <h2>What will I get?</h2>
 <p>We like to keep the event as low cost for us as well as the sponsors so we require 6 sponsors in total for a cost of £1000 each. In return for sponsorship, you will receive the following:</p>
 <ul>
-<li>Logo and mention on the website</li>
-<li>Shout outs on Twitter and LinkedIn in the lead up to the event</li>
+<li>Logo and mention on the website.</li>
+<li>Shout outs on Twitter and LinkedIn in the lead up to the event.</li>
 <li>Offer the attendees swag from our sponsors such as stickers, USB drives or any other merchandise that you think is suitable.</li>
-<li>A blog post from the organisers for your website to say how your company has helped the testing community</li>
+<li>A blog post from the organisers for your website to say how your company has helped the testing community.</li>
+<li>Content created for your site on a topic that will suit you either by an attendee or by the organising committee.  We can discuss a topic that works for you - or, you can see what we create from the trip!</li>  
 </ul>
 
 <h2>I'm in, how do I sponsor?</h2>
