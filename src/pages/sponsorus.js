@@ -2,6 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Emoji from "../components/emoji"
 
 const SponsorUs = () => (
   <Layout>
@@ -25,6 +26,7 @@ const SponsorUs = () => (
 <p>We would love sponsors so that we can supliment the trip for attendees.  Attendees will be giving up a week of their lives to improve testing for the masses so we would like to be able to support them by making the trip as cheap as we can for them.  </p>
 
 <h2>What does the event cost?</h2>
+<p></p>
 <table>
     <thead>
   <tr>
@@ -59,15 +61,46 @@ const SponsorUs = () => (
   </tr>
 </tbody>
 </table>
-
+<p></p>
 <h2>What will I get?</h2>
-<p>We like to keep the event as low cost for us as well as the sponsors so we require 6 sponsors in total for a cost of £1000 each. In return for sponsorship, you will receive the following:</p>
+
+<p>We like to keep the event as low cost for us as well as the sponsors so we offer three sponsorship packages, Gold at £1000, Silver (with two options) at £800 and Silver at £500. </p>
+
+<h3><Emoji symbol="🥇" label="gold medal"/> Gold Sponsorship (£1000)</h3>
+<p>In return for Gold Sponsorship, you will receive the following:</p>
 <ul>
 <li>Logo and mention on the website.</li>
 <li>Shout outs on Twitter and LinkedIn in the lead up to the event.</li>
 <li>Offer the attendees swag from our sponsors such as stickers, USB drives or any other merchandise that you think is suitable.</li>
 <li>A blog post from the organisers for your website to say how your company has helped the testing community.</li>
 <li>Content created for your site on a topic that will suit you either by an attendee or by the organising committee.  We can discuss a topic that works for you - or, you can see what we create from the trip!</li>  
+</ul>
+
+<h3><Emoji symbol="🥈" label="silver medal"/> Silver Sponsorship Option 1 (£800)</h3>
+<p>In return for Silver Sponsorship, you will receive the following:</p>
+<ul>
+<li><a href="https://www.awesomemerchandise.com/Full-Colour-Carabiner-Mugs">Your logo with our logo on an outdoor mug</a> which will be a lot of use when we go on our walks in the outdoors in Scotland to clear our head after all the studying.</li>
+<li>Logo and mention on the website.</li>
+<li>Shout outs on Twitter and LinkedIn in the lead up to the event.</li>
+<li>Offer the attendees swag from our sponsors such as stickers, USB drives or any other merchandise that you think is suitable.</li>
+</ul>
+
+
+<h3><Emoji symbol="🥈" label="silver medal"/> Silver Sponsorship Option 2 (£800)</h3>
+<p>In return for Silver Sponsorship, you will receive the following:</p>
+<ul>
+<li><a href="https://www.awesomemerchandise.com/A5-Ringbound-Notebooks">Your logo with our logo on notesbooks.</a>  With all this studying, we are going to need something to scribble our ideas on.  With your logo on a notebook, attendees will be able to remember that you've helped them on their mission to further testing!</li>
+<li>Logo and mention on the website.</li>
+<li>Shout outs on Twitter and LinkedIn in the lead up to the event.</li>
+<li>Offer the attendees swag from our sponsors such as stickers, USB drives or any other merchandise that you think is suitable.</li>
+</ul>
+
+<h3><Emoji symbol="🥉" label="bronze medal"/> Bronze Sponsorship (£500)</h3>
+<p>In return for Bronze Sponsorship, you will receive the following:</p>
+<ul>
+<li>Logo and mention on the website.</li>
+<li>Shout outs on Twitter and LinkedIn in the lead up to the event.</li>
+<li>Offer the attendees swag from our sponsors such as stickers, USB drives or any other merchandise that you think is suitable.</li>
 </ul>
 
 <h2>I'm in, how do I sponsor?</h2>
