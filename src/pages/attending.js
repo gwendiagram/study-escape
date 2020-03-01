@@ -19,7 +19,7 @@ const Attending = () => (
 <p>As attendees will be giving a week of their life to further the testing community, we will endevour to keep the trip as cheap as possible.  We are aiming for the week to be under £800 per person, however, we will need sponsors to make this happen.  If you know a company that would be interested in sponsoring, please direct them to the <Link to="/sponsorus">Sponsor Us</Link> page and can you always speak to <a href="https://twitter.com/ezagroba">Elizabeth Zagroba</a> or <a href="https://twitter.com/gwendiagram">Gwen Diagram</a> if you have more questions.  If you would like to see how we are calculating costs, please have a look at <Link to="/sponsorus">Sponsor Us</Link> which has a breakdown.</p>
 
 <h2>Topics</h2>
-<p><a href="https://www.ministryoftesting.com/">Ministry of Testing</a> will propose a list of topics to get people’s ideas flowing.</p>
+<p>You will be choosing the topics so have a think about what you would like to study in advance.  Some assistance in how you can determine a suitable topic is below.</p>
 
 <h3>Example of topics</h3>
 <p>Observability of asynchronous systems</p>
