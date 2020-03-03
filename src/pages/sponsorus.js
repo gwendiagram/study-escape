@@ -37,7 +37,7 @@ const SponsorUs = () => (
   <tbody>
   <tr>
     <td>Venue in the depths of Scotland</td>
-    <td>£4000</td>
+    <td>£4400</td>
   </tr>
   <tr>
     <td>Lovely Food</td>
@@ -57,14 +57,14 @@ const SponsorUs = () => (
   </tr>
   <tr>
     <td>Total</td>
-    <td>£6720</td>
+    <td>£7120</td>
   </tr>
 </tbody>
 </table>
 <p></p>
 <h2>What will I get?</h2>
 
-<p>We like to keep the event as low cost for us as well as the sponsors so we offer three sponsorship packages, Gold at £1000, Silver (with two options) at £800 and Silver at £500. </p>
+<p>We like to keep the event as low cost for us as well as the sponsors so we offer three sponsorship packages, Gold at £1000, Silver (with two options) at £800 and Bronze at £500. </p>
 
 <h3><Emoji symbol="🥇" label="gold medal"/> Gold Sponsorship (£1000)</h3>
 <p>In return for Gold Sponsorship, you will receive the following:</p>
