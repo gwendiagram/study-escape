@@ -8,9 +8,9 @@ const Venue = () => (
     <SEO title="Venue" />
     <h1>Where will this be held?</h1>
     <h2>Venue</h2>
-<p>The venue is booked! We are staying at a lovely house in Scotland called <a href="https://www.lhhscotland.com/property/glenfarg-house-glenfarg-perth">Glenfarg House.</a>  Gleanfarg house has 18 beds in total, we have booked the house and the two cottages.</p>
+<p>The venue is booked! We are staying at a lovely house in Scotland called <a href="https://www.lhhscotland.com/property/glenfarg-house-glenfarg-perth">Glenfarg House.</a>  Glenfarg house has 18 beds in total, we have booked the house and the two cottages.</p>
 
-<h2>What features does the venue have</h2>
+<h2>What features does the venue have?</h2>
 <ul>
   <li>TRAMPOLINE! It has a trampoline!</li>
   <li>Wi-fi</li>
