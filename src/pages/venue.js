@@ -22,7 +22,7 @@ const Venue = () => (
 </ul>
 <h2>Where is it?</h2>
 <p>Glenfarg House is situated in the lush, green and rolling farmland of south east Perthshire, close to border with the Kingdom of Fife. </p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d553.0930547203334!2d-3.355286511904663!3d56.323407142437155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488630b07cbb40a9%3A0xcf801df890a05bf0!2sGlenfarg%20House%2C%20Glenfarg%2C%20Perth%20PH2%209PT!5e0!3m2!1sen!2suk!4v1583262221572!5m2!1sen!2suk" title="map to venue" width="600" height="450" frameborder="0" styles="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d553.0930547203334!2d-3.355286511904663!3d56.323407142437155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488630b07cbb40a9%3A0xcf801df890a05bf0!2sGlenfarg%20House%2C%20Glenfarg%2C%20Perth%20PH2%209PT!5e0!3m2!1sen!2suk!4v1583262221572!5m2!1sen!2suk" title="map to venue" width="300" height="225" frameborder="0" styles="border:0;" allowfullscreen=""></iframe>
 
 <h2>Travel</h2>
 <h3>By public transport</h3>
