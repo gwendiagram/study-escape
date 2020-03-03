@@ -3,6 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import { Link } from "gatsby"
 
 const IndexPage = () => (
   <Layout>
@@ -10,7 +11,6 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <h6>*Castle is an example and not the one we will be staying at!</h6>
     <h1>About the trip</h1>
     <p></p>
     <h2>The organisers</h2>
@@ -18,13 +18,13 @@ const IndexPage = () => (
 
 <h2>What?</h2>
 <p>A study trip to Scotland for people interested in testing to deep dive into a specific topic.</p>
-<h2> When? </h2>
-<p>July or August 2020 for a week. Arrive on Sunday, leave on Sunday. Study the topic from Monday - Thursday and present findings Friday and Saturday.</p>
-<h2> Who? </h2>
-<p>Up to 15 people. The organisers will seek a balance of participants from among those interested.</p>
-<h2> How? </h2>
-<p>We will hire a castle or set of chalets. Catering is considered, most of these options will be self catering. To maximise study time and to keep costs down, Gwen has suggested a friend to attend who can look after cooking breakfast, lunch and dinner at a cost of £1000 and free accommodation.</p>
-<p>Other options are to find somewhere with catering which may increase the price. Registration isn't open yet, but <a href="https://me843905.typeform.com/to/LvzU5H">give us your name and your email here</a> and we'll let you know when it is.
+<h2>When? </h2>
+<p>Saturday, 29 Aug 2020 to Saturday, 05 Sep 2020. For details, please refer to the <Link to="/schedule">schedule.</Link></p>
+<h2>Who? </h2>
+<p>Up to 17 people. The organisers will seek a balance of participants from among those interested.</p>
+<h2>How? </h2>
+<p>We have booked a large house and cottages in Perth, Scotland. To maximise study time and to keep costs down, Gwen has suggested a friend to attend who can look after cooking breakfast, lunch and dinner at a cost of £1000 and free accommodation.</p>
+<p>Registration isn't open yet, but <a href="https://me843905.typeform.com/to/LvzU5H">give us your name and your email here</a> and we'll let you know when it is.
 </p>
 <h2>Why?</h2>
 <p>Last year, Gwen went to Krakow and studied philosophy for three days, ate noodles and had a brilliant time. She would like to extend the learning opportunity to other testers in a serene setting with a discussion at the end.</p>
