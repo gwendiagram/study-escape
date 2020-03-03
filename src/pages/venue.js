@@ -26,7 +26,7 @@ const Venue = () => (
 
 <h2>Travel</h2>
 <h3>By public transport</h3>
-<p>Glenfarg house is situated near Perth which has a railway station and an airport.  From Glasgow or Edinburgh airport, Perth train station is around an hour and a half.  The trains in the UK are nice so this is a good option if you find that Perth airport isn't suitable from your location.  From Perth itself, there are multiple buses that go to Glenfarg House (36, 66A and 56) which take approximately 20 minutes with a 10 minute walk to the venue.  There are also multiple taxi companies in Perth.  A taxi ride will take approximately 20 minutes.</p>  
+<p>Glenfarg House is situated near Perth which has a railway station and an airport.  From Glasgow or Edinburgh airport, Perth train station is around an hour and a half.  The trains in the UK are nice so this is a good option if you find that Perth airport isn't suitable from your location.  From Perth itself, there are multiple buses that go to Glenfarg House (36, 66A and 56) which take approximately 20 minutes with a 10 minute walk to the venue.  There are also multiple taxi companies in Perth.  A taxi ride will take approximately 20 minutes.</p>  
 <h3>By car</h3>
 <p>The postcode is PH2 9PT.  There's plenty of space to park.</p>
 
