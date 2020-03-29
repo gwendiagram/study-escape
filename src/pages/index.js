@@ -19,7 +19,7 @@ const IndexPage = () => (
 <h2>What?</h2>
 <p>A study trip to Scotland for people interested in testing to deep dive into a specific topic.</p>
 <h2>When? </h2>
-<p>Saturday, 29 Aug 2020 to Saturday, 05 Sep 2020. For details, please refer to the <Link to="/schedule">schedule.</Link></p>
+<p><del>Saturday, 29 Aug 2020 to Saturday, 05 Sep 2020.</del> Postponed until 2021. For details about what the week will look like, please refer to the <Link to="/schedule">schedule.</Link></p>
 <h2>Who? </h2>
 <p>Up to 17 people. The organisers will seek a balance of participants from among those interested.</p>
 <h2>How? </h2>
@@ -27,7 +27,7 @@ const IndexPage = () => (
 <p>Registration isn't open yet, but <a href="https://me843905.typeform.com/to/LvzU5H">give us your name and your email here</a> and we'll let you know when it is.
 </p>
 <h2>Why?</h2>
-<p>Last year, Gwen went to Krakow and studied philosophy for three days, ate noodles and had a brilliant time. She would like to extend the learning opportunity to other testers in a serene setting with a discussion at the end.</p>
+<p>In 2019, Gwen went to Krakow and studied philosophy for three days, ate noodles and had a brilliant time. She would like to extend the learning opportunity to other testers in a serene setting with a discussion at the end.</p>
 
   </Layout>
 )
