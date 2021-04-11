@@ -19,11 +19,10 @@ const IndexPage = () => (
 <h2>What?</h2>
 <p>A study trip to Scotland for people interested in testing to deep dive into a specific topic.</p>
 <h2>When? </h2>
-<p><del>Saturday, 29 Aug 2020 to Saturday, 05 Sep 2020.</del> Postponed until 2021. For details about what the week will look like, please refer to the <Link to="/schedule">schedule.</Link></p>
+<p><del>Saturday, 29 Aug 2020 to Saturday, 05 Sep 2020.</del> Postponed until it makes sense. For details about what the week might look like, please refer to the <Link to="/schedule">schedule.</Link></p>
 <h2>Who? </h2>
 <p>Up to 17 people. The organisers will seek a balance of participants from among those interested.</p>
 <h2>How? </h2>
-<p>We have booked a large house and cottages in Perth, Scotland. To maximise study time and to keep costs down, Gwen has suggested a friend to attend who can look after cooking breakfast, lunch and dinner at a cost of £1000 and free accommodation.</p>
 <p>Registration isn't open yet, but <a href="https://me843905.typeform.com/to/LvzU5H">give us your name and your email here</a> and we'll let you know when it is.
 </p>
 <h2>Why?</h2>
